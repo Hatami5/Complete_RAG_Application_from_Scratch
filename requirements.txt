@@ -1,0 +1,12 @@
+#requirments.txt
+langchain
+langchain_core
+langchain_community
+transformers
+sentence_transformers
+faiss-cpu
+chromadb
+pypdf
+pymupdf
+langchain-groq
+python-dotenv
